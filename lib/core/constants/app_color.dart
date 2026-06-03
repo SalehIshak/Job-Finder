@@ -1,0 +1,52 @@
+import 'package:flutter/material.dart';
+
+class AppColor {
+  AppColor._();
+
+  static const Color primary = Color(0xff0D988C);
+  static const Color secondary = Color(0xffcfebe8);
+
+  // Linear
+  static const Color linear1 = Color(0xff4E8CF7);
+  static const Color linear2 = Color(0xff1A69F0);
+
+  // Button
+  static const Color button = Color(0xff236DEC);
+
+  // Blue
+  static const Color blue1 = Color(0xff0957DE);
+  static const Color blue2 = Color(0xff2C67CC);
+  static const Color blue3 = Color(0xff0C419D);
+  static const Color info = Color(0xff2F80ED);
+  static const Color blue7A = Color(0xff7ACEFA);
+
+  // Grey
+  static const Color grey1 = Color(0xff71767C);
+  static const Color grey2 = Color(0xffDADADA);
+  static const Color grey3 = Color(0xffF3F4F6);
+  static const Color grey4 = Color(0xffFBFBFB);
+  static const Color grey5 = Color.fromARGB(255, 131, 214, 214);
+
+  // Yellow
+  static const Color yellow = Color(0xffFFBB23);
+  static const Color warning = Color(0xffE2B93B);
+  static const Color yellowF7 = Color(0xffF7C480);
+
+  // Green
+  static const Color green = Color(0xff5FD788);
+  static const Color success = Color(0xff27AE60);
+
+  // Red
+  static const Color red = Color.fromARGB(255, 180, 38, 30);
+  static const Color error = Color(0xffEB5757);
+
+  // Black
+  static const Color black = Color(0xff1E252D);
+
+  // White
+  static const Color white = Color(0xffFFFFFF);
+  static const Color whiteEd = Color(0xffEDEDED);
+
+  // Rose
+  static const Color roseE8 = Color(0xffE8899E);
+}

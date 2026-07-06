@@ -101,7 +101,7 @@ class UserCubit extends Cubit<UserState> {
 
   //   void getSearchValue(String? jobTypeValue, String? jobLevelValue) {
   //     jobTypeSellected = jobTypeValue;
-  //     jobLevelSellected = jobTypeValue;
+  //     jobLevelSellected = jobTypeValue;  
   //   }
 
   //   String? jobTypeSelected;
